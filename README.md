@@ -34,4 +34,8 @@ Blog_mini是一个开源的博客系统，用Python开发完成，具有简洁�
 
     作者51cto博客：http://xpleaf.blog.51cto.com
     作者个人博客网站：http://www.xpleaf.com
+
+### 6.在mac osx  部署通过
+为了解决安装问题 ，还安装了 postgresql系统，实际环境采用 python 2.7 与sqllite
+
     
